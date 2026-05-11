@@ -28,7 +28,9 @@ ssh -p [port] [username]@[host]
 ```
 
 ---
-### Steps
+## Steps
+
+### 1. login with ssh
 
 From the problem, we can identify four pieces of information:
 
@@ -44,6 +46,22 @@ ssh -p 2220 bandit0@bandit.labs.overthewire.org
 ```
 
 When prompted, enter the password `bandit0`.
+
+### 2. After Successful Login
+
+Once you have logged in successfully, type `ls` to list the files in the current directory.
+
+```bash
+ls
+```
+
+You will see a file named `readme`. Use the `cat` command to read its contents, which will reveal the password for the next level.
+
+```bash
+cat readme
+```
+
+The output will display the password you need to log in as `bandit1` in the next level.
 
 ---
 ## Reference
