@@ -8,105 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b850e85b6f4bec63",
+            "id": "28c863142257439a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bandit_level_0.md",
+                "file": "bandit_level_12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bandit_level_0"
-            }
-          },
-          {
-            "id": "01bc7d7bb9249451",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sample.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sample"
-            }
-          },
-          {
-            "id": "466cabf0aff21570",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bandit_level_2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bandit_level_2"
-            }
-          },
-          {
-            "id": "1d36c80d3aa1c80c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bandit_level_3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bandit_level_3"
-            }
-          },
-          {
-            "id": "05d0688b8cebae9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bandit_level_4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bandit_level_4"
-            }
-          },
-          {
-            "id": "0e7f59989c18d270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bandit_level_5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bandit_level_5"
-            }
-          },
-          {
-            "id": "356ef39b425aab27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bandit_level_6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bandit_level_6"
+              "title": "bandit_level_12"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -268,14 +183,20 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "356ef39b425aab27",
+  "active": "28c863142257439a",
   "lastOpenFiles": [
-    "bandit_level_5.md",
-    "bandit_level_6.md",
+    "bandit_level_11.md",
+    "bandit_level_12.md",
+    "bandit_level_10.md",
+    "bandit_level_9.md",
+    "bandit_level_8.md",
+    "bandit_level_7.md",
     "bandit_level_4.md",
+    "bandit_level_6.md",
     "bandit_level_3.md",
-    "bandit_level_2.md",
     "bandit_level_1.md",
+    "bandit_level_2.md",
+    "bandit_level_5.md",
     "sample.md",
     "bandit_level_0.md",
     "README.md",
